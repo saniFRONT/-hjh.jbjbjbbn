@@ -26,7 +26,7 @@ audio {
   background-image: url('background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: 0.35;
+  opacity: 0.6;
   z-index: 0;
   animation: bgMove 60s linear infinite;
 }
